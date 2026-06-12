@@ -1,4 +1,4 @@
-# V-Stream-Database-Management-System (Mini Project)
+# V-Stream Database Management System (Mini Project)
 ## 1. Business context
    
 **V-Stream** is a data-driven streaming service provider specializing in delivering movies and television shows to a global audience. The system operates on a monthly subscription-based model where users gain unlimited access to a digital content library. This project focuses on designing and implementing a robust database to manage memberships, content metadata, and user feedback.

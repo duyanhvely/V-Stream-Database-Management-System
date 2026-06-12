@@ -25,9 +25,9 @@ The project is organized into three distinct SQL scripts to demonstrate a profes
 - **V-Stream_Schema.sql:** Contains the Data Definition Language (DDL) commands used to create the database structure, primary keys, and foreign key constraints.
 - **V-Stream_Data.sql:** Includes Data Manipulation Language (DML) commands to populate each table with at least five sample records for testing.
 - **V-Stream_Analysis.sql:** Contains advanced implementation tasks, such as:
-+) Adding a User_Status column using ALTER TABLE.
-+) Performing conditional data updates (e.g., setting account status to 'Inactive' for external email domains).
-+) Analytical queries involving INNER JOIN, DATE functions, and the creation of a VIEW.
+<br> +) Adding a User_Status column using ALTER TABLE.
+<br> +) Performing conditional data updates (e.g., setting account status to 'Inactive' for external email domains).
+<br> +) Analytical queries involving INNER JOIN, DATE functions, and the creation of a VIEW.
 
 ## 5. Setup and execution
 
